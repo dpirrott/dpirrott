@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dpirrotta9@hotmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAE90jr1eZA/W6iuDchETcg_sZd0qmEcmw/view?utm_content=DAE90jr1eZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE90jr1eZA/W6iuDchETcg_sZd0qmEcmw/view?utm_content=DAE90jr1eZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences --> [https://www.canva.com/design/DAE90jr1eZA/W6iuDchETcg_sZd0qmEcmw/view?utm_content=DAE90jr1eZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](see resume)
 
 - ⚡ Fun fact **I sweat from ketchup, which makes me enjoy it more.**
 
