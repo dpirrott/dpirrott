@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpirrott" alt="dpirrott" /></a> </p>
 
-- 🔭 I’m currently working on [my capstone project at Lighthouse Labs.](https://github.com/VinceEmond/LHL-Final-Project)
+- 🔭 I’m currently working on a [competitive math game](https://github.com/dpirrott/math-battle) to teach myself Websockets using **React, Express and SocketIO**
 
-- 🤝 I’m looking for help with **finding employment after graduation.**
+- 🤝 I’m looking for help with **landing my first web-developer role**
 
 - 👨‍💻 All of my projects are available on [github.com/dpirrott](github.com/dpirrott)
 
