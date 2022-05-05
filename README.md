@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dpirrott&label=Profile%20views&color=0e75b6&style=plastic" alt="dpirrott" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpirrott" alt="dpirrott" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpirrott&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers" alt="dpirrott" /></a> </p>
 
 - 🔭 I’m currently working on a [competitive math game](https://github.com/dpirrott/math-battle) to teach myself Websockets using **React, Express and SocketIO**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences --> [see resume](https://www.canva.com/design/DAE90jr1eZA/W6iuDchETcg_sZd0qmEcmw/view?utm_content=DAE90jr1eZA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I sweat from ketchup, which makes me enjoy it more.**
+- ⚡ Fun fact -  **I sweat from ketchup, which makes me enjoy it more.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
