@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on a [competitive math game](https://github.com/dpirrott/math-battle) to teach myself Websockets using **React, Express and SocketIO**
 
+- :books: Currently studying for the Amazon Web Services Certified Developer Certification
+
 - 🤝 I’m looking for help with **landing my first web-developer role**
 
 - 👨‍💻 All of my projects are available on [github.com/dpirrott](github.com/dpirrott)
