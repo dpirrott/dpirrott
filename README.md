@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on a [competitive math game](https://github.com/dpirrott/math-battle) to teach myself Websockets using **React, Express and SocketIO**
 
 - :books: Currently studying for the Amazon Web Services Certified Developer Certification
+  - Going through Mongo university courses for advanced usage
 
 - 🤝 I’m looking for help with **landing my first web-developer role**
 
