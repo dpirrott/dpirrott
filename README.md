@@ -5,12 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dpirrott&theme=juicyfresh&title=Commits,PullRequest,Repositories,Followers" alt="dpirrott" /></a> </p>
 
-- 🔭 I’m currently working on a [competitive math game](https://github.com/dpirrott/math-battle) to teach myself Websockets using **React, Express and SocketIO**
+- 🔭 Side-project: I’m currently working on a [competitive math game](https://github.com/dpirrott/math-battle) to teach myself Websockets using **React, Express and SocketIO**
 
 - :books: Currently studying for the Amazon Web Services Certified Developer Certification
-  - Going through Mongo university courses for advanced usage
-
-- 🤝 I’m looking for help with **landing my first web-developer role**
 
 - 👨‍💻 All of my projects are available on [github.com/dpirrott](github.com/dpirrott)
 
